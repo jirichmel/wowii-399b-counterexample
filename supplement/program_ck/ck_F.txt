@@ -1,0 +1,14 @@
+F_3 n=12 a2=7 wp=6 wpbook=6 k=6 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=34 s421=32 s399=-1 lemma=0/49
+F_4 n=13 a2=7 wp=6 wpbook=6 k=7 dD=6 g=4 i=4 lmax=4 NM=13 g2=7 aA3=4 A3empty=0 | s436=41 s421=36 s399=-1 lemma=0/63
+F_5 n=14 a2=7 wp=6 wpbook=6 k=8 dD=7 g=4 i=4 lmax=4 NM=14 g2=7 aA3=4 A3empty=0 | s436=48 s421=40 s399=-1 lemma=0/77
+F_6 n=15 a2=7 wp=6 wpbook=6 k=9 dD=8 g=4 i=4 lmax=4 NM=15 g2=7 aA3=4 A3empty=0 | s436=55 s421=44 s399=-1 lemma=0/91
+F_7 n=16 a2=7 wp=6 wpbook=6 k=10 dD=9 g=4 i=4 lmax=4 NM=16 g2=7 aA3=4 A3empty=0 | s436=62 s421=48 s399=-1 lemma=0/105
+F_8 n=17 a2=7 wp=6 wpbook=6 k=11 dD=10 g=4 i=4 lmax=4 NM=17 g2=7 aA3=4 A3empty=0 | s436=69 s421=52 s399=-1 lemma=0/119
+F_9 n=18 a2=7 wp=6 wpbook=6 k=12 dD=11 g=4 i=4 lmax=4 NM=18 g2=7 aA3=4 A3empty=0 | s436=76 s421=56 s399=-1 lemma=0/133
+F_10 n=19 a2=7 wp=6 wpbook=6 k=13 dD=12 g=4 i=4 lmax=4 NM=19 g2=7 aA3=4 A3empty=0 | s436=83 s421=60 s399=-1 lemma=0/147
+F_11 n=20 a2=7 wp=6 wpbook=6 k=14 dD=13 g=4 i=4 lmax=4 NM=20 g2=7 aA3=4 A3empty=0 | s436=90 s421=64 s399=-1 lemma=0/161
+F_12 n=21 a2=7 wp=6 wpbook=6 k=15 dD=14 g=4 i=4 lmax=4 NM=21 g2=7 aA3=4 A3empty=0 | s436=97 s421=68 s399=-1 lemma=0/175
+F_13 n=22 a2=7 wp=6 wpbook=6 k=16 dD=15 g=4 i=4 lmax=4 NM=22 g2=7 aA3=4 A3empty=0 | s436=104 s421=72 s399=-1 lemma=0/189
+F_14 n=23 a2=7 wp=6 wpbook=6 k=17 dD=16 g=4 i=4 lmax=4 NM=23 g2=7 aA3=4 A3empty=0 | s436=111 s421=76 s399=-1 lemma=0/203
+F_15 n=24 a2=7 wp=6 wpbook=6 k=18 dD=17 g=4 i=4 lmax=4 NM=24 g2=7 aA3=4 A3empty=0 | s436=118 s421=80 s399=-1 lemma=0/217
+nice -n 15 ./code/ck F 3 15  0.23s user 0.03s system 95% cpu 0.270 total

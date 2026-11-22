@@ -1,0 +1,43 @@
+Sun Nov 22 01:33:46 CET 2026
+== M1: tight-max lists, C vs Python, and the third reviewer's G?bffG
+iso(G?Ox|o,G?Ky\c)=1
+iso(G?bffG,G?Ky\c)=1
+iso(G?bffG,G@CZ\W)=0
+iso(G@CZ\W,G?Ky\c)=0
+py canon hash G?Ox|o 6890268771201159704
+py canon hash G?Ky\c 6890268771201159704
+py canon hash G?bffG 6890268771201159704
+py canon hash G@CZ\W 6244975703537704892
+== M1: descriptions (built by vp.py) GNz_OG = K33+bc, pendants at e,f; GNzc?_ = K33+bc, pendants at a,d; E}GO = diamond+2 pendants
+iso(GNz_OG,G@CZ\W)=1
+iso(GNzc?_,G?Ky\c)=1
+iso(E}GO,E^Q?)=1
+py canon hash GNz_OG 6244975703537704892
+py canon hash G@CZ\W 6244975703537704892
+py canon hash GNzc?_ 6890268771201159704
+py canon hash G?Ky\c 6890268771201159704
+py canon hash E}GO 7067885505539512107
+py canon hash E^Q? 7067885505539512107
+G?Ky\c g6=G?Ky\c n=8 m=12 conn=1 gamma2=5 WP=4 WPother=4 |A3|=6 alphaA3=3 alpha2=5 viol_cat=0 viol_other=0
+G@CZ\W g6=G@CZ\W n=8 m=12 conn=1 gamma2=5 WP=4 WPother=4 |A3|=6 alphaA3=3 alpha2=5 viol_cat=0 viol_other=0
+G?bffG g6=G?bffG n=8 m=12 conn=1 gamma2=5 WP=4 WPother=4 |A3|=6 alphaA3=3 alpha2=5 viol_cat=0 viol_other=0
+E^Q? g6=E^Q? n=6 m=7 conn=1 gamma2=4 WP=3 WPother=4 |A3|=4 alphaA3=2 alpha2=4 viol_cat=0 viol_other=0
+G?Ky\c {'n': 8, 'm': 12, 'conn': True, 'gamma2': 5, 'WP': 4, 'WPother': 4, 'A3': 6, 'alphaA3': 3, 'alpha2': 5}
+G@CZ\W {'n': 8, 'm': 12, 'conn': True, 'gamma2': 5, 'WP': 4, 'WPother': 4, 'A3': 6, 'alphaA3': 3, 'alpha2': 5}
+G?bffG {'n': 8, 'm': 12, 'conn': True, 'gamma2': 5, 'WP': 4, 'WPother': 4, 'A3': 6, 'alphaA3': 3, 'alpha2': 5}
+E^Q? {'n': 6, 'm': 7, 'conn': True, 'gamma2': 4, 'WP': 3, 'WPother': 4, 'A3': 4, 'alphaA3': 2, 'alpha2': 4}
+== M2/M3: K_{1,6} = FsaC?, K_{1,4} = Ds_
+FsaC? g6=FsaC? n=7 m=6 conn=1 gamma2=6 WP=6 WPother=2 |A3|=1 alphaA3=1 alpha2=6 viol_cat=0 viol_other=1
+Ds_ g6=Ds_ n=5 m=4 conn=1 gamma2=4 WP=4 WPother=2 |A3|=1 alphaA3=1 alpha2=4 viol_cat=0 viol_other=0
+FsaC? {'n': 7, 'm': 6, 'conn': True, 'gamma2': 6, 'WP': 6, 'WPother': 2, 'A3': 1, 'alphaA3': 1, 'alpha2': 6}
+Ds_ {'n': 5, 'm': 4, 'conn': True, 'gamma2': 4, 'WP': 4, 'WPother': 2, 'A3': 1, 'alphaA3': 1, 'alpha2': 4}
+== M2: C and Python lists of other-reading violators matched by isomorphism
+match: |A|=10 |B|=10 A-lines with exactly one iso partner=10 B-lines=10
+match: |A|=150 |B|=150 A-lines with exactly one iso partner=150 B-lines=150
+== M5: sets in K?CXX\NVz^P~
+set 0x80f: 2dom=1 independent=0 subsetA3=0
+set 0x80e: 2dom=0 independent=1 subsetA3=1
+size-4 sets containing 0: 165, 2-dominating: 0
+Sun Nov 22 01:33:48 CET 2026
+py-canon match n=7: |C list|=10 distinct=10 |P list|=10 distinct=10 equal sets=True
+py-canon match n=8: |C list|=150 distinct=150 |P list|=150 distinct=150 equal sets=True

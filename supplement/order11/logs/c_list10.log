@@ -1,0 +1,29 @@
+Sun Nov 22 01:27:50 CET 2026
+n=2 connected=1
+n=3 connected=2
+n=4 connected=6
+n=5 connected=21
+n=6 connected=112
+n=7 connected=853
+n=8 connected=11117
+n=9 connected=261080
+n=10 connected=11716571
+      473.45 real       220.14 user         6.00 sys
+           281296896  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               17676  page reclaims
+                   2  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                  12  voluntary context switches
+              681343  involuntary context switches
+       1019511032215  instructions retired
+        508240683936  cycles elapsed
+           280986200  peak memory footprint
+Sun Nov 22 01:35:43 CET 2026

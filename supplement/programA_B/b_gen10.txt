@@ -1,0 +1,25 @@
+n=4 connected=6 | 436c viol=0 min_slack=0 open(k=1,D indep)=1 open_eq=1 | 421c viol=0 eq=6 min_slack=0 NM=lmax+1:1 lemma_checks=23 lemma_viol=0 | 399b A3empty=2 aA3>=4=0 viol=0 min_slack=2 g2>WP=3
+n=5 connected=21 | 436c viol=0 min_slack=0 open(k=1,D indep)=1 open_eq=1 | 421c viol=0 eq=2 min_slack=0 NM=lmax+1:3 lemma_checks=93 lemma_viol=0 | 399b A3empty=2 aA3>=4=0 viol=0 min_slack=1 g2>WP=6
+n=6 connected=112 | 436c viol=0 min_slack=0 open(k=1,D indep)=4 open_eq=4 | 421c viol=0 eq=8 min_slack=0 NM=lmax+1:12 lemma_checks=733 lemma_viol=0 | 399b A3empty=2 aA3>=4=0 viol=0 min_slack=0 g2>WP=17
+n=7 connected=853 | 436c viol=0 min_slack=0 open(k=1,D indep)=10 open_eq=10 | 421c viol=0 eq=29 min_slack=0 NM=lmax+1:61 lemma_checks=6596 lemma_viol=0 | 399b A3empty=2 aA3>=4=4 viol=0 min_slack=0 g2>WP=43
+n=8 connected=11117 | 436c viol=0 min_slack=0 open(k=1,D indep)=32 open_eq=32 | 421c viol=0 eq=112 min_slack=0 NM=lmax+1:456 lemma_checks=100047 lemma_viol=0 | 399b A3empty=2 aA3>=4=286 viol=0 min_slack=0 g2>WP=121
+n=9 connected=261080 | 436c viol=0 min_slack=0 open(k=1,D indep)=144 open_eq=137 | 421c viol=0 eq=461 min_slack=0 NM=lmax+1:6454 lemma_checks=2617707 lemma_viol=0 | 399b A3empty=2 aA3>=4=31965 viol=0 min_slack=0 g2>WP=336
+n=10 connected=11716571 | 436c viol=0 min_slack=0 open(k=1,D indep)=1123 open_eq=937 | 421c viol=0 eq=2059 min_slack=0 NM=lmax+1:164586 lemma_checks=130702849 lemma_viol=0 | 399b A3empty=2 aA3>=4=4229763 viol=0 min_slack=0 g2>WP=990
+      306.19 real       280.89 user         1.47 sys
+          1069645824  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               83278  page reclaims
+                   7  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+              206340  involuntary context switches
+       1679424431168  instructions retired
+        546472850019  cycles elapsed
+          1080362136  peak memory footprint

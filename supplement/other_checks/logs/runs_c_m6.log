@@ -1,0 +1,26 @@
+Sun Nov 22 01:32:58 CET 2026
+F3 g6=KCOfFFb?~?[? n=12 m=24 conn=1 gamma2=7 WP=6 WPother=6 |A3|=9 alphaA3=4 alpha2=7 viol_cat=1 viol_other=1
+F3 (a) |deg<=3|=6 alpha(G[deg<=3])=6 rhs=6 gamma2=7 violates=1
+F3 (b) exact-2-dom number=12 rhs=6 violates=1
+F3 (b) one minimum exact set mask=0xfff: 0 1 2 3 4 5 6 7 8 9 10 11
+F4 g6=LCOfFFbwwF{?w? n=13 m=31 conn=1 gamma2=7 WP=6 WPother=7 |A3|=10 alphaA3=4 alpha2=7 viol_cat=1 viol_other=0
+F4 (a) |deg<=3|=5 alpha(G[deg<=3])=5 rhs=6 gamma2=7 violates=1
+F4 (b) exact-2-dom number=13 rhs=6 violates=1
+F4 (b) one minimum exact set mask=0x1fff: 0 1 2 3 4 5 6 7 8 9 10 11 12
+F5 g6=MCOfFFbw~F_^w?w?? n=14 m=39 conn=1 gamma2=7 WP=6 WPother=8 |A3|=11 alphaA3=4 alpha2=7 viol_cat=1 viol_other=0
+F5 (a) |deg<=3|=5 alpha(G[deg<=3])=5 rhs=6 gamma2=7 violates=1
+F5 (b) exact-2-dom number=14 rhs=6 violates=1
+F5 (b) one minimum exact set mask=0x3fff: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+F6 g6=NCOfFFbw~F{^?~w?[?? n=15 m=48 conn=1 gamma2=7 WP=6 WPother=9 |A3|=12 alphaA3=4 alpha2=7 viol_cat=1 viol_other=0
+F6 (a) |deg<=3|=5 alpha(G[deg<=3])=5 rhs=6 gamma2=7 violates=1
+F6 (b) exact-2-dom number=15 rhs=6 violates=1
+F6 (b) one minimum exact set mask=0x7fff: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+F7 g6=OCOfFFbw~F{^w~?~{?F?? n=16 m=58 conn=1 gamma2=7 WP=6 WPother=10 |A3|=13 alphaA3=4 alpha2=7 viol_cat=1 viol_other=0
+F7 (a) |deg<=3|=5 alpha(G[deg<=3])=5 rhs=6 gamma2=7 violates=1
+F7 (b) exact-2-dom number=16 rhs=6 violates=1
+F7 (b) one minimum exact set mask=0xffff: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+F8 g6=PCOfFFbw~F{^w~w~_^~??w?? n=17 m=69 conn=1 gamma2=7 WP=6 WPother=11 |A3|=14 alphaA3=4 alpha2=7 viol_cat=1 viol_other=0
+F8 (a) |deg<=3|=5 alpha(G[deg<=3])=5 rhs=6 gamma2=7 violates=1
+F8 (b) exact-2-dom number=17 rhs=6 violates=1
+F8 (b) one minimum exact set mask=0x1ffff: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Sun Nov 22 01:32:58 CET 2026

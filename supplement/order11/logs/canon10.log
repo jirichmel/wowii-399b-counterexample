@@ -1,0 +1,12 @@
+# canon on the 10-vertex lists of generator A (a10.g6) and generator C (c10.g6): start, end, line counts, lines "BAD" (exact), distinct canonical forms, comparison
+Sun Nov 22 01:45:49 CET 2026
+Sun Nov 22 01:46:08 CET 2026
+ 11716571 o11/a10.can
+ 11716571 o11/c10.can
+ 23433142 total
+o11/a10.can:0
+o11/c10.can:0
+ 11716571 o11/a10.su
+ 11716571 o11/c10.su
+ 23433142 total
+A and C lists: same set of canonical forms

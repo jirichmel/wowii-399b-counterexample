@@ -1,0 +1,26 @@
+Sun Nov 22 01:33:11 CET 2026
+F3 {'n': 12, 'm': 24, 'conn': True, 'gamma2': 7, 'WP': 6, 'WPother': 6, 'A3': 9, 'alphaA3': 4}
+F3 (a) deg<=3 vertices=['l1', 'l2', 'l3', 'w', 'y1', 'y2'] alpha=6 rhs=6 gamma2=7 violates=True
+F3 (b) exact-2-dom number=12 example=['x1', 'x2', 'x3', 'l1', 'l2', 'l3', 'k1', 'k2', 'k3', 'w', 'y1', 'y2'] rhs=6 violates=True
+real 0.26
+F4 {'n': 13, 'm': 31, 'conn': True, 'gamma2': 7, 'WP': 6, 'WPother': 7, 'A3': 10, 'alphaA3': 4}
+F4 (a) deg<=3 vertices=['l1', 'l2', 'l3', 'y1', 'y2'] alpha=5 rhs=6 gamma2=7 violates=True
+F4 (b) exact-2-dom number=13 example=['x1', 'x2', 'x3', 'l1', 'l2', 'l3', 'k1', 'k2', 'k3', 'k4', 'w', 'y1', 'y2'] rhs=6 violates=True
+real 0.27
+F5 {'n': 14, 'm': 39, 'conn': True, 'gamma2': 7, 'WP': 6, 'WPother': 8, 'A3': 11, 'alphaA3': 4}
+F5 (a) deg<=3 vertices=['l1', 'l2', 'l3', 'y1', 'y2'] alpha=5 rhs=6 gamma2=7 violates=True
+F5 (b) exact-2-dom number=14 example=['x1', 'x2', 'x3', 'l1', 'l2', 'l3', 'k1', 'k2', 'k3', 'k4', 'k5', 'w', 'y1', 'y2'] rhs=6 violates=True
+real 0.21
+F6 {'n': 15, 'm': 48, 'conn': True, 'gamma2': 7, 'WP': 6, 'WPother': 9, 'A3': 12, 'alphaA3': 4}
+F6 (a) deg<=3 vertices=['l1', 'l2', 'l3', 'y1', 'y2'] alpha=5 rhs=6 gamma2=7 violates=True
+F6 (b) exact-2-dom number=15 example=['x1', 'x2', 'x3', 'l1', 'l2', 'l3', 'k1', 'k2', 'k3', 'k4', 'k5', 'k6', 'w', 'y1', 'y2'] rhs=6 violates=True
+real 0.24
+F7 {'n': 16, 'm': 58, 'conn': True, 'gamma2': 7, 'WP': 6, 'WPother': 10, 'A3': 13, 'alphaA3': 4}
+F7 (a) deg<=3 vertices=['l1', 'l2', 'l3', 'y1', 'y2'] alpha=5 rhs=6 gamma2=7 violates=True
+F7 (b) exact-2-dom number=16 example=['x1', 'x2', 'x3', 'l1', 'l2', 'l3', 'k1', 'k2', 'k3', 'k4', 'k5', 'k6', 'k7', 'w', 'y1', 'y2'] rhs=6 violates=True
+real 0.52
+F8 {'n': 17, 'm': 69, 'conn': True, 'gamma2': 7, 'WP': 6, 'WPother': 11, 'A3': 14, 'alphaA3': 4}
+F8 (a) deg<=3 vertices=['l1', 'l2', 'l3', 'y1', 'y2'] alpha=5 rhs=6 gamma2=7 violates=True
+F8 (b) exact-2-dom number=17 example=['x1', 'x2', 'x3', 'l1', 'l2', 'l3', 'k1', 'k2', 'k3', 'k4', 'k5', 'k6', 'k7', 'k8', 'w', 'y1', 'y2'] rhs=6 violates=True
+real 0.73
+Sun Nov 22 01:33:14 CET 2026

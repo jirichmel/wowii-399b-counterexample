@@ -1,0 +1,57 @@
+Sun Nov 22 01:29:13 CET 2026
+n=3 graphs=4 connected=2 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0
+n=3 tight by alphaA3: {0: 1} max=0
+  TIGHTMAX n=3 Bw
+n=4 graphs=11 connected=6 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0
+n=4 tight by alphaA3: {0: 1, 1: 2} max=1
+  TIGHTMAX n=4 CN
+  TIGHTMAX n=4 C~
+n=5 graphs=34 connected=21 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0
+n=5 tight by alphaA3: {1: 6} max=1
+  TIGHTMAX n=5 D@s
+  TIGHTMAX n=5 D@{
+  TIGHTMAX n=5 DJk
+  TIGHTMAX n=5 DL{
+  TIGHTMAX n=5 DJ{
+  TIGHTMAX n=5 D~{
+n=6 graphs=156 connected=112 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0
+n=6 tight by alphaA3: {1: 12, 2: 5} max=2
+  TIGHTMAX n=6 E@^O
+  TIGHTMAX n=6 E@]o
+  TIGHTMAX n=6 EJ]w
+  TIGHTMAX n=6 Ejmw
+  TIGHTMAX n=6 EJnw
+n=7 graphs=1044 connected=853 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=10
+n=7 tight by alphaA3: {1: 21, 2: 22} max=2
+  TIGHTMAX n=7 F?H[o
+  TIGHTMAX n=7 F?C}O
+  TIGHTMAX n=7 F?Dlo
+  TIGHTMAX n=7 F?C~O
+  TIGHTMAX n=7 F?C}o
+  TIGHTMAX n=7 F@U}o
+  TIGHTMAX n=7 F@L}o
+  TIGHTMAX n=7 FPLYw
+  TIGHTMAX n=7 F@T|o
+  TIGHTMAX n=7 F@L\w
+  TIGHTMAX n=7 F@L|o
+  TIGHTMAX n=7 F@K}w
+  TIGHTMAX n=7 F@\~_
+  TIGHTMAX n=7 F@L}w
+  TIGHTMAX n=7 F@L^w
+  TIGHTMAX n=7 F@T|w
+  TIGHTMAX n=7 FJ]|w
+  TIGHTMAX n=7 FJ\|w
+  TIGHTMAX n=7 Fj]|w
+  TIGHTMAX n=7 FJm~w
+  TIGHTMAX n=7 FJ]~w
+  TIGHTMAX n=7 Fjm~w
+  VIOLOTHER n=7 F??}O gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F??Ng gamma2=6 WPother=2 alphaA3=1
+  VIOLOTHER n=7 F??Fw gamma2=6 WPother=2 alphaA3=1
+  VIOLOTHER n=7 F?Dl_ gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F?H[o gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F?C~? gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F?C}O gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F??}o gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F?Dlo gamma2=5 WPother=3 alphaA3=2
+  VIOLOTHER n=7 F?C~O gamma2=5 WPother=3 alphaA3=2

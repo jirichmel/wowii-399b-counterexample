@@ -1,0 +1,8 @@
+KCOfFFb?~?[? n=12 a2=7 wp=6 k=6 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=34 s421=32 s399=-1 lemma=0/0
+LCOfFFbwwF{?w? n=13 a2=7 wp=6 k=7 dD=6 g=4 i=4 lmax=4 NM=13 g2=7 aA3=4 A3empty=0 | s436=41 s421=36 s399=-1 lemma=0/0
+MCOfFFbw~F_^w?w?? n=14 a2=7 wp=6 k=8 dD=7 g=4 i=4 lmax=4 NM=14 g2=7 aA3=4 A3empty=0 | s436=48 s421=40 s399=-1 lemma=0/0
+NCOfFFbw~F{^?~w?[?? n=15 a2=7 wp=6 k=9 dD=8 g=4 i=4 lmax=4 NM=15 g2=7 aA3=4 A3empty=0 | s436=55 s421=44 s399=-1 lemma=0/0
+OCOfFFbw~F{^w~?~{?F?? n=16 a2=7 wp=6 k=10 dD=9 g=4 i=4 lmax=4 NM=16 g2=7 aA3=4 A3empty=0 | s436=62 s421=48 s399=-1 lemma=0/0
+PCOfFFbw~F{^w~w~_^~??w?? n=17 a2=7 wp=6 k=11 dD=10 g=4 i=4 lmax=4 NM=17 g2=7 aA3=4 A3empty=0 | s436=69 s421=52 s399=-1 lemma=0/0
+QCOfFFbw~F{^w~w~{^wF~w?B_?? n=18 a2=7 wp=6 k=12 dD=11 g=4 i=4 lmax=4 NM=18 g2=7 aA3=4 A3empty=0 | s436=76 s421=56 s399=-1 lemma=0/0
+RCOfFFbw~F{^w~w~{^~F~?~~_?F??? n=19 a2=7 wp=6 k=13 dD=12 g=4 i=4 lmax=4 NM=19 g2=7 aA3=4 A3empty=0 | s436=83 s421=60 s399=-1 lemma=0/0

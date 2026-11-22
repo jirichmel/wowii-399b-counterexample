@@ -1,0 +1,215 @@
+Sun Nov 22 01:28:13 CET 2026
+n=2 graphs=2 connected=1 A3empty=1 gamma2>WP+1:0 viol_cat=0 viol_other=0 (A3empty with gamma2>WPother+1: 0)
+n=2 tight(gamma2=WP+1) by alphaA3: a=0:1  max=0
+  TIGHTMAX n=2 A_ gamma2=2 WP=1 alphaA3=0
+n=3 graphs=4 connected=2 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0 (A3empty with gamma2>WPother+1: 0)
+n=3 tight(gamma2=WP+1) by alphaA3: a=0:1  max=0
+  TIGHTMAX n=3 Bw gamma2=2 WP=1 alphaA3=0
+n=4 graphs=11 connected=6 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0 (A3empty with gamma2>WPother+1: 0)
+n=4 tight(gamma2=WP+1) by alphaA3: a=0:1 a=1:2  max=1
+  TIGHTMAX n=4 CN gamma2=3 WP=2 alphaA3=1
+  TIGHTMAX n=4 C~ gamma2=2 WP=1 alphaA3=1
+n=5 graphs=34 connected=21 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0 (A3empty with gamma2>WPother+1: 0)
+n=5 tight(gamma2=WP+1) by alphaA3: a=1:6  max=1
+  TIGHTMAX n=5 D@s gamma2=4 WP=3 alphaA3=1
+  TIGHTMAX n=5 DJk gamma2=3 WP=2 alphaA3=1
+  TIGHTMAX n=5 D@{ gamma2=4 WP=3 alphaA3=1
+  TIGHTMAX n=5 DL{ gamma2=3 WP=2 alphaA3=1
+  TIGHTMAX n=5 DJ{ gamma2=3 WP=2 alphaA3=1
+  TIGHTMAX n=5 D~{ gamma2=2 WP=1 alphaA3=1
+n=6 graphs=156 connected=112 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=0 (A3empty with gamma2>WPother+1: 0)
+n=6 tight(gamma2=WP+1) by alphaA3: a=1:12 a=2:5  max=2
+  TIGHTMAX n=6 E@^O gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=6 E@]o gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=6 Ejmw gamma2=3 WP=2 alphaA3=2
+  TIGHTMAX n=6 EJ]w gamma2=3 WP=2 alphaA3=2
+  TIGHTMAX n=6 EJnw gamma2=3 WP=2 alphaA3=2
+n=7 graphs=1044 connected=853 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=10 (A3empty with gamma2>WPother+1: 0)
+n=7 tight(gamma2=WP+1) by alphaA3: a=1:21 a=2:22  max=2
+  VIOLOTHER n=7 F?C~? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=7 F?Dl_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=7 F@\~_ gamma2=4 WP=3 alphaA3=2
+  VIOLOTHER n=7 F??}O gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=7 F?C}O gamma2=5 WP=4 alphaA3=2
+  VIOLOTHER n=7 F?C}O gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=7 F?C~O gamma2=5 WP=4 alphaA3=2
+  VIOLOTHER n=7 F?C~O gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=7 F?H[o gamma2=5 WP=4 alphaA3=2
+  VIOLOTHER n=7 F?H[o gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=7 F??}o gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=7 F?C}o gamma2=5 WP=4 alphaA3=2
+  TIGHTMAX n=7 F@U}o gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 F@L}o gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 F?Dlo gamma2=5 WP=4 alphaA3=2
+  VIOLOTHER n=7 F?Dlo gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=7 F@T|o gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 F@L|o gamma2=4 WP=3 alphaA3=2
+  VIOLOTHER n=7 F??Ng gamma2=6 WPother=2 alphaA3=1 rhs=5
+  TIGHTMAX n=7 FPLYw gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 F@K}w gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 F@L}w gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 F@L\w gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 FJ]|w gamma2=3 WP=2 alphaA3=2
+  TIGHTMAX n=7 Fj]|w gamma2=3 WP=2 alphaA3=2
+  TIGHTMAX n=7 F@T|w gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 FJ\|w gamma2=3 WP=2 alphaA3=2
+  VIOLOTHER n=7 F??Fw gamma2=6 WPother=2 alphaA3=1 rhs=5
+  TIGHTMAX n=7 F@L^w gamma2=4 WP=3 alphaA3=2
+  TIGHTMAX n=7 FJm~w gamma2=3 WP=2 alphaA3=2
+  TIGHTMAX n=7 Fjm~w gamma2=3 WP=2 alphaA3=2
+  TIGHTMAX n=7 FJ]~w gamma2=3 WP=2 alphaA3=2
+n=8 graphs=12346 connected=11117 A3empty=2 gamma2>WP+1:0 viol_cat=0 viol_other=150 (A3empty with gamma2>WPother+1: 1)
+n=8 tight(gamma2=WP+1) by alphaA3: a=1:38 a=2:81 a=3:2  max=3
+  VIOLOTHER n=8 G??Xv? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CZN? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Cin? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GYn? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GGE?~? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?C_~? gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??X]_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZT_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@Ht_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca\_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?D@\_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GA?H\_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CmJ_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@@KZ_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca^_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@?I^_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??X^_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??G~_ gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??H~_ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??HmO gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??P]O gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZKo gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??iko gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Hmo gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??_}o gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZLo gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Jlo gamma2=5 WPother=3 alphaA3=2 rhs=4
+  TIGHTMAX n=8 G?Ox|o gamma2=5 WP=4 alphaA3=3
+  VIOLOTHER n=8 G?CeJo gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Hno gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?KRMG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?S`mG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??HmG gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@OHmG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CHmG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?C_}G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GO}G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?cajG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@_IjG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GGE?zG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GOD?zG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??XvG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CHnG gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G???~G gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GGE?~G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?C_~G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GO~G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??G~G gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca~G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GQ~G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??X~G gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GIkg gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca[g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GQ[g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?H?{g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??H}g gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZTg gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@Htg gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CJLg gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?OHlg gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca\g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@?I\g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?D@\g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?OP\g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GA?H\g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Z\g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@H|g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca^g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@?I^g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??G~g gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??H~g gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Ca[W gamma2=6 WPother=4 alphaA3=2 rhs=5
+  VIOLOTHER n=8 G??HmW gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??P]W gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??@}W gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??H}W gamma2=6 WPother=4 alphaA3=2 rhs=5
+  TIGHTMAX n=8 G@CZ\W gamma2=5 WP=4 alphaA3=3
+  VIOLOTHER n=8 G???~W gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??G~W gamma2=6 WPother=4 alphaA3=2 rhs=5
+  VIOLOTHER n=8 G??Jcw gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??asw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??a{w gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Hmw gamma2=6 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??_}w gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??@}w gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??^@w gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@L`w gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CeHw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?DDHw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?OTHw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Jdw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Jlw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CeJw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??Hnw gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G???~w gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CZNC gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CinC gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GYnC gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G???~C gamma2=6 WPother=2 alphaA3=1 rhs=5
+  VIOLOTHER n=8 G?D_~C gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?HO~C gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??W~C gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GG?W~C gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??X]c gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??g}c gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CmJc gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@@KZc gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?EaZc gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@AIZc gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G???^c gamma2=6 WPother=2 alphaA3=1 rhs=5
+  VIOLOTHER n=8 G??X^c gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZKs gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??iks gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@_{s gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZLs gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@Hls gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G???Ns gamma2=7 WPother=2 alphaA3=1 rhs=5
+  VIOLOTHER n=8 GGC\EK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CheK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G_CheK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??XUK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CZDK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CidK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GYdK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?OXdK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GG?WtK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CZFK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CifK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?GYfK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??WvK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GG?WvK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??XvK gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??XUk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?Cm@k gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?DL@k gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?O\@k gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?QH`k gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@@KPk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 GA?kPk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZTk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@Htk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?CmBk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G@@KRk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??XVk gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZC[ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZC{ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ic{ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??^@{ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G?@L`{ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G??ZD{ gamma2=5 WPother=3 alphaA3=2 rhs=4
+  VIOLOTHER n=8 G???F{ gamma2=7 WPother=2 alphaA3=1 rhs=5
+  VIOLOTHER n=8 G???N{ gamma2=7 WPother=3 alphaA3=1 rhs=6
+nice -n 15 ./vc enum 8  1.32s user 0.02s system 55% cpu 2.427 total

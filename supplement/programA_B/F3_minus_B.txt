@@ -1,0 +1,36 @@
+JCREMKFoE?? disconnected
+JOREMKFoE?? disconnected
+JQBEMKFoE?? disconnected
+JAJfNKFwF?? n=11 a2=6 wp=6 k=6 dD=4 g=3 i=4 lmax=4 NM=11 g2=6 aA3=4 A3empty=0 | s436=34 s421=20 s399=0 lemma=0/0
+JCJfNKFwF?? n=11 a2=6 wp=6 k=6 dD=4 g=3 i=4 lmax=4 NM=11 g2=6 aA3=4 A3empty=0 | s436=34 s421=20 s399=0 lemma=0/0
+JCRfNKFwF?? n=11 a2=6 wp=6 k=6 dD=4 g=3 i=4 lmax=4 NM=11 g2=6 aA3=4 A3empty=0 | s436=34 s421=20 s399=0 lemma=0/0
+JCOfFCBwF?? n=11 a2=7 wp=6 k=5 dD=4 g=4 i=4 lmax=4 NM=11 g2=7 aA3=3 A3empty=0 | s436=27 s421=28 s399=0 lemma=0/0
+JCOfFCBwF?? n=11 a2=7 wp=6 k=5 dD=4 g=4 i=4 lmax=4 NM=11 g2=7 aA3=3 A3empty=0 | s436=27 s421=28 s399=0 lemma=0/0
+JCOfFCBwF?? n=11 a2=7 wp=6 k=5 dD=4 g=4 i=4 lmax=4 NM=11 g2=7 aA3=3 A3empty=0 | s436=27 s421=28 s399=0 lemma=0/0
+JCOfFFbwF?? n=11 a2=7 wp=6 k=5 dD=5 g=3 i=3 lmax=4 NM=11 g2=6 aA3=3 A3empty=0 | s436=28 s421=21 s399=1 lemma=0/0
+JCOfFFb?~?? n=11 a2=7 wp=6 k=5 dD=5 g=4 i=4 lmax=4 NM=7 g2=6 aA3=4 A3empty=0 | s436=28 s421=12 s399=0 lemma=0/0
+JCOfFFb?~?? n=11 a2=7 wp=6 k=5 dD=5 g=4 i=4 lmax=4 NM=7 g2=6 aA3=4 A3empty=0 | s436=28 s421=12 s399=0 lemma=0/0
+K?OfFFb?~?[? disconnected
+KC?fFFb?~?[? disconnected
+KCOFFFb?~?[? disconnected
+KCOfFBb?~?[? n=12 a2=7 wp=7 k=5 dD=3 g=4 i=4 lmax=5 NM=11 g2=7 aA3=4 A3empty=0 | s436=31 s421=28 s399=0 lemma=0/0
+KCOfFF`?~?[? n=12 a2=7 wp=7 k=5 dD=3 g=4 i=4 lmax=5 NM=11 g2=7 aA3=4 A3empty=0 | s436=31 s421=28 s399=0 lemma=0/0
+KCOfFFa?~?[? n=12 a2=7 wp=7 k=5 dD=3 g=4 i=4 lmax=5 NM=11 g2=7 aA3=4 A3empty=0 | s436=31 s421=28 s399=0 lemma=0/0
+KCObFFb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOdFFb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOeFFb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfBFb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfDFb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfEFb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfFDb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfFEb?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfFFB?~?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=12 g2=7 aA3=4 A3empty=0 | s436=33 s421=32 s399=0 lemma=0/0
+KCOfFFb?^?[? n=12 a2=7 wp=7 k=5 dD=4 g=4 i=4 lmax=4 NM=12 g2=7 aA3=3 A3empty=0 | s436=32 s421=32 s399=1 lemma=0/0
+KCOfFFb?n?[? n=12 a2=7 wp=7 k=5 dD=4 g=4 i=4 lmax=4 NM=12 g2=7 aA3=3 A3empty=0 | s436=32 s421=32 s399=1 lemma=0/0
+KCOfFFb?v?[? n=12 a2=7 wp=7 k=5 dD=4 g=4 i=4 lmax=4 NM=12 g2=7 aA3=3 A3empty=0 | s436=32 s421=32 s399=1 lemma=0/0
+KCOfFFb?z?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=11 g2=7 aA3=4 A3empty=0 | s436=33 s421=28 s399=0 lemma=0/0
+KCOfFFb?|?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=11 g2=7 aA3=4 A3empty=0 | s436=33 s421=28 s399=0 lemma=0/0
+KCOfFFb?}?[? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=11 g2=7 aA3=4 A3empty=0 | s436=33 s421=28 s399=0 lemma=0/0
+KCOfFFb?~?K? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=11 g2=7 aA3=4 A3empty=0 | s436=33 s421=28 s399=0 lemma=0/0
+KCOfFFb?~?S? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=11 g2=7 aA3=4 A3empty=0 | s436=33 s421=28 s399=0 lemma=0/0
+KCOfFFb?~?W? n=12 a2=7 wp=7 k=5 dD=5 g=4 i=4 lmax=4 NM=11 g2=7 aA3=4 A3empty=0 | s436=33 s421=28 s399=0 lemma=0/0

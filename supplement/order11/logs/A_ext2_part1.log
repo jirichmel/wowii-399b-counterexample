@@ -1,0 +1,24 @@
+Sun Nov 22 01:36:02 CET 2026
+ext2 [5858286,11716571): graphs_on_10_seen=11716571 disconnected=0 parents=180953 extensions=185114919 hits=17349 g2>wp+1=0 violations=0 A3empty_hits=0
+ext2: alpha(G[A3]) over labelled hits: 1:940 2:12102 3:4307
+ext2: (gamma2,WP) table over the 10-vertex graphs: (2,1):1 (2,2):55 (2,3):1913 (2,4):12248 (2,5):8855 (2,6):748 (2,7):12 (3,2):13 (3,3):9521 (3,4):688877 (3,5):2023855 (3,6):148170 (3,7):382 (4,3):73 (4,4):100474 (4,5):2105844 (4,6):592327 (4,7):1921 (5,4):220 (5,5):68066 (5,6):91344 (5,7):773 (6,5):304 (6,6):2221 (6,7):63 (7,6):5
+ext2: (gamma2,WP) table over all extensions: (2,1):1 (2,2):3121 (2,3):32216 (2,4):2266 (2,5):686 (2,6):88 (3,2):137 (3,3):374418 (3,4):11526836 (3,5):12026840 (3,6):1090113 (3,7):6362 (4,3):905 (4,4):4499998 (4,5):91251372 (4,6):21239993 (4,7):85808 (5,4):3715 (5,5):5906044 (5,6):35072336 (5,7):344916 (6,5):8600 (6,6):1192730 (6,7):421932 (7,6):3970 (7,7):19495 (8,7):21
+      558.79 real       321.57 user         5.09 sys
+             1622016  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                 417  page reclaims
+                  21  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                 998  voluntary context switches
+              773511  involuntary context switches
+       3617563638605  instructions retired
+        812549335840  cycles elapsed
+             1163648  peak memory footprint
+Sun Nov 22 01:45:21 CET 2026
